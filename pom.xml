@@ -114,7 +114,7 @@
         <javadocPluginVersion>3.0.1</javadocPluginVersion>
         <!-- build-tools stylesheet org/forgerock/javadoc/javadoc.css
              does not work with JDK7 -->
-        <javadocStylesheet />
+        <javadocStylesheet/>
         <javadocWindowTitle>${project.name} ${project.version} Documentation</javadocWindowTitle>
         <javadocDocTitle>${javadocWindowTitle}</javadocDocTitle>
 
@@ -282,7 +282,7 @@
 			<dependency>
 				<groupId>org.testng</groupId>
 				<artifactId>testng</artifactId>
-				<version>6.14.3</version>
+				<version>7.7.0</version>
 				<scope>test</scope>
 			</dependency>
 
@@ -1066,7 +1066,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1096,7 +1096,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1109,7 +1109,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
