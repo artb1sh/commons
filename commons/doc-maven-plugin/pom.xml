@@ -31,7 +31,7 @@
  
  <properties>
 
-  <mavenVersion>3.3.1</mavenVersion>
+  <mavenVersion>3.6.0</mavenVersion>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
   <!--
@@ -294,7 +294,7 @@
       <configuration>
        <target>
         <copy todir="${basedir}/src/site/markdown">
-         <fileset dir="${basedir}" includes="**/*.md" />
+         <fileset dir="${basedir}" includes="**/*.md"/>
         </copy>
        </target>
       </configuration>
