@@ -43,7 +43,7 @@
 
     <properties>
         <javax.inject.version>1_2</javax.inject.version>
-        <commons-lang3.version>3.4</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <jackson-mapper-asl.version>1.9.2</jackson-mapper-asl.version>
     </properties>
 
