@@ -114,7 +114,7 @@
         <javadocPluginVersion>3.0.1</javadocPluginVersion>
         <!-- build-tools stylesheet org/forgerock/javadoc/javadoc.css
              does not work with JDK7 -->
-        <javadocStylesheet />
+        <javadocStylesheet/>
         <javadocWindowTitle>${project.name} ${project.version} Documentation</javadocWindowTitle>
         <javadocDocTitle>${javadocWindowTitle}</javadocDocTitle>
 
@@ -774,7 +774,7 @@
 		    <dependency>
 			    <groupId>org.apache.commons</groupId>
 			    <artifactId>commons-lang3</artifactId>
-			    <version>3.11</version>
+			    <version>3.18.0</version>
 			</dependency>
 			<dependency>
 			   <groupId>commons-io</groupId>
@@ -1066,7 +1066,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1096,7 +1096,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1109,7 +1109,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
